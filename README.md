@@ -50,6 +50,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="40" height="40"/></a>
+  <a href="https://developer.hashicorp.com/vagrant" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vagrant.svg" alt="vagrant" width="40" height="40"/></a>
 </p>
 
 ---
