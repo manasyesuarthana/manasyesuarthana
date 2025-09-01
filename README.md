@@ -30,20 +30,18 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 
 <p align="center">
   <strong>Languages</strong><br><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/python/python.png" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk/FFFFFF" alt="java" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/java/java.png" alt="java" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/c/c.png?" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/cpp/cpp.png" alt="cplusplus" width="40" height="40"/></a>
 </p>
 <p align="center">
   <strong>Web Development</strong><br><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/000000?color=white" alt="express" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="flask" width="40" height="40"/></a>
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=javascript&logoColor=white" alt="ejs"/></a>
-</p>
 <p align="center">
   <strong>Infrastructure & DevOps</strong><br><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -69,6 +67,10 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/metasploit/000000?color=white" alt="metasploit" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/freelabz/secator" target="_blank" rel="noreferrer">
+    <img src="https://repository-images.githubusercontent.com/606381231/e4e412f0-5107-4b1c-b64a-cbd05b66b008" alt="secator" width="100" height="55"/>
   </a>
 </p>
 
