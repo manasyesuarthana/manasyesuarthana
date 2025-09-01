@@ -20,7 +20,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://instagram.com/manasyesuarthana" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/manasye-suarthana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://id.linkedin.com/in/i-putu-herjuna-manasye-suarthana-6a1b93294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
 
