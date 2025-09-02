@@ -9,11 +9,13 @@
 
 I'm a (future) developer who really likes **DevOps**, **Backend Development**, and **Cybersecurity**.
 
-I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions, which is a fantastic way to apply and expand my security knowledge. I document my journey and solutions in my [CTF Write-ups Repository](https://github.com/manasyesuarthana/CTF-WriteUps).
+I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions with my buddies, which is my way of applying and expanding my security knowledge. I document my journey and solutions in my [CTF Write-ups Repository](https://github.com/manasyesuarthana/CTF-WriteUps).
+
+Or maybe I'm just touching some grass :)
 
 - 🌱 My current focus is on mastering **DevOps Tools** and deepening my understanding of **Backend Architecture**.
 - 💬 Feel free to ask me anything about **Linux**, or how to get started in **Cybersecurity**.
-- 🚀 My learning roadmap includes: **GitLab CI/CD, AWS, Jenkins, Kubernetes, System Design** with a touch of **Security**.
+- 🚀 My learning roadmap includes: **More into Docker, GitLab CI/CD, AWS, Jenkins, Kubernetes, System Design** with a touch of **Security**.
 - 📫 Let's connect! You can find me here:
 
 <p align="center">
@@ -77,6 +79,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 
 ---
 
+### My GitHub Stats
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasyesuarthana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manasyesuarthana" />
