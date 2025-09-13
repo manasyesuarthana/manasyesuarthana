@@ -49,6 +49,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nginx/269539" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mongodb/mongo/refs/heads/master/docs/leaf.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="40" height="40"/></a>
   <a href="https://developer.hashicorp.com/vagrant" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vagrant.svg" alt="vagrant" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png" alt="raspberrypi" width="40" height="40"/></a>
