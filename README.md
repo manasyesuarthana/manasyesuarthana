@@ -13,7 +13,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 
 - 🌱 My current focus is on mastering **DevOps Tools** and deepening my understanding of **Backend Architecture**.
 - 💬 Feel free to ask me anything about **Linux**, or how to get started in **Cybersecurity**.
-- 🚀 My learning roadmap includes: **GitLab CI/CD, AWS, Jenkins, Kubernetes, System Design** with a touch of **Security**.
+- 🚀 My learning roadmap includes: **CI/CD, AWS, Jenkins, Kubernetes, System Design** with a touch of **Security**.
 - 📫 Let's connect! You can find me here:
 
 <p align="center">
