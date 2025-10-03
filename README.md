@@ -11,7 +11,7 @@ I'm a (future) developer who really likes **DevOps**, **Backend Development**, a
 
 I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions, which is a fantastic way to apply and expand my security knowledge. I document my journey and solutions in my [CTF Write-ups Repository](https://github.com/manasyesuarthana/CTF-WriteUps).
 
-- 🌱 My current focus is on mastering **DevOps Tools** and deepening my understanding of **Backend Architecture**.
+- 🌱 My current focus is on deepening my knowledge **Backend Development, DevOps, and Cybersecurity.** (and also grind leetcode on the side :v)
 - 💬 Feel free to ask me anything about **Linux**, or how to get started in **Cybersecurity**.
 - 🚀 My learning roadmap includes: **CI/CD, AWS, Jenkins, Kubernetes, System Design** with a touch of **Security**.
 - 📫 Let's connect! You can find me here:
