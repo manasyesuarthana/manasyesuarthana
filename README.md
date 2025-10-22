@@ -81,6 +81,4 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasyesuarthana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manasyesuarthana" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasyesuarthana&theme=tokyonight" alt="manasyesuarthana" />
-</div>
+  <br>
