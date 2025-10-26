@@ -57,26 +57,6 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png" alt="raspberrypi" width="40" height="40"/></a>
 </p>
 
----
-
-### Offensive Security Toolkit
-
-<p align="center">
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/63385?s=200&v=4" alt="nmap" width="55" height="55"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6600" alt="burpsuite" width="55" height="55"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/metasploit/000000?color=white" alt="metasploit" width="55" height="55"/>
-  </a>
-  <a href="https://github.com/freelabz/secator" target="_blank" rel="noreferrer">
-    <img src="https://repository-images.githubusercontent.com/606381231/e4e412f0-5107-4b1c-b64a-cbd05b66b008" alt="secator" width="125" height="55"/>
-  </a>
-</p>
-
----
 
 <div align="center">
   <br>
