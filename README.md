@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hi there, I'm Manasye 👋</h1>
-  <h3>DevOps | Cybersecurity | Backend</h3>
+  <h3>DevOps | Cybersecurity | Software Development</h3>
 </div>
 
 ---
 
 ### About Me
 
-I'm a (future) developer who really likes **DevOps**, **Backend Development**, and **Cybersecurity**.
+I'm a (future) developer who is passionate in **Software Development**, and **Cybersecurity**.
 
 I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions, which is a fantastic way to apply and expand my security knowledge. I document my journey and solutions in my [CTF Write-ups Repository](https://github.com/manasyesuarthana/CTF-WriteUps).
 
