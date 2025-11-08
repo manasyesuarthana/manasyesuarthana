@@ -32,13 +32,15 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <strong>Languages</strong><br><br>
   <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4ad3d591b6116da1877e0a959ae0a10c22e077efc30eb8d386c8e6462a26d2cc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f2f676f2d6f726967696e616c2e737667" alt="go" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/python/python.png" alt="python" width="40" height="40"/></a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-svg-download-png-2945272.png" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/java/java.png" alt="java" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/c/c.png?" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/cpp/cpp.png" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="40" height="40"/></a>
 </p>
+
 <p align="center">
   <strong>Web Development</strong><br><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/></a>
