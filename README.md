@@ -45,7 +45,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <strong>Web Development</strong><br><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="45" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp" alt="express" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" alt="express" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="flask" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/d68b13_81394694d2b6453f92290e6260381313~mv2.png/v1/fill/w_568,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d68b13_81394694d2b6453f92290e6260381313~mv2.png" alt="spring boot" width="80" height="40"/></a>
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="angularjs" width="100" height="40"/></a>
