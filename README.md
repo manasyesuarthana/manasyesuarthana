@@ -30,10 +30,10 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 
 <p align="center">
   <strong>Languages</strong><br><br>
-  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4ad3d591b6116da1877e0a959ae0a10c22e077efc30eb8d386c8e6462a26d2cc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f2f676f2d6f726967696e616c2e737667" alt="go" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/python/python.png" alt="python" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-svg-download-png-2945272.png" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/1*vmFSpk9xtpxAHkH7cmt-3Q.png" alt="go" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/java/java.png" alt="java" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/c/c.png?" alt="c" width="40" height="40"/></a>
@@ -47,15 +47,15 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="45" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" alt="express" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="flask" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/d68b13_81394694d2b6453f92290e6260381313~mv2.png/v1/fill/w_568,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d68b13_81394694d2b6453f92290e6260381313~mv2.png" alt="spring boot" width="80" height="40"/></a>
 
 <p align="center">
   <strong>Infrastructure & DevOps</strong><br><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="raspberrypi" width="40" height="47.5"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nginx/269539" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mongodb/mongo/refs/heads/master/docs/leaf.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="40" height="40"/></a>
   <a href="https://developer.hashicorp.com/vagrant" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vagrant.svg" alt="vagrant" width="40" height="40"/></a>
