@@ -46,8 +46,7 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="45" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" alt="express" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="flask" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="fastapi" width="40" height="40"/></a>
 
 <p align="center">
   <strong>Infrastructure & DevOps</strong><br><br>
