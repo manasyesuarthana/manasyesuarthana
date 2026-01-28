@@ -51,7 +51,8 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
 <p align="center">
   <strong>Infrastructure & DevOps</strong><br><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="raspberrypi" width="40" height="47.5"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="raspberrypi" width="40" height="47.5"/><a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/960px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nginx/269539" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/></a>
