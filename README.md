@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm a (future) developer who is passionate in **Software Development**, and **Cybersecurity**.
+I'm a (future) developer who is passionate in **DevOps**, **Software Development**, and **Cybersecurity**.
 
 I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions.
 
