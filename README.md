@@ -24,4 +24,4 @@ I'm constantly diving into new technologies and sharpening my skills. When I'm n
   </a>
 </p>
 
-- More about me can be found here: **[My Portfolio Website](https://manasye-portfolio.vercel.app)**
+- More about me can be found here: **[My Portfolio Website](https://manasye-portfolio.vercel.app)** (Best viewed on PC or Tablets)
