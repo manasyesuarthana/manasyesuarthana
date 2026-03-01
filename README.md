@@ -12,7 +12,7 @@ I'm a (future) developer who is passionate in **DevOps**, **Software Development
 I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions.
 
 - 🌱 My current focus is on deepening my knowledge on **Software Engineering, DevOps Tools, and Secure Development** (and also grind leetcode + CTFs on the side :v)
-- 💬 Feel free to ask me anything about **Linux**, or how to get started in **Cybersecurity**.
+- 💬 Feel free to ask me anything about **Linux**, **DevOps**, or how to get started in **Cybersecurity**.
 - 🚀 My learning roadmap includes: **CI/CD Pipelines, AWS, Jenkins, Kubernetes, IaC through Terraform, System Design** with an additional focus of **System Security**.
 - 📫 Let's connect! You can find me here:
 
