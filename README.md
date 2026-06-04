@@ -1,19 +1,19 @@
 <div align="center">
   <h1>Hi there, I'm Manasye 👋</h1>
-  <h3>DevOps | Cybersecurity | Software Development</h3>
+  <h3>DevSecOps | Cloud infrastructure | System Administration</h3>
 </div>
 
 ---
 
 ### About Me
 
-I'm a (future) developer who is passionate in **DevOps**, **Software Development**, and **Cybersecurity**.
+I'm a Computer Science Student who is passionate in **Cloud Engineering, IT infrastructure, System Administration, DevSecOps**. I am also looking towards exploring **SRE (Site Reliability Engineering)** and **Platform Engineering**.
 
-I'm constantly diving into new technologies and sharpening my skills. When I'm not coding, you'll find me competing in **Capture The Flag (CTF)** competitions.
+I'm constantly diving into new technologies and sharpening my skills through university coursework, online courses, and personal projects.
 
-- 🌱 My current focus is on deepening my knowledge on **Software Engineering, DevOps Tools, and Secure Development** (and also grind leetcode + CTFs on the side :v)
-- 💬 Feel free to ask me anything about **Linux**, **DevOps**, or how to get started in **Cybersecurity**.
-- 🚀 My learning roadmap includes: **CI/CD Pipelines, AWS, Jenkins, Kubernetes, IaC through Terraform, System Design** with an additional focus of **System Security**.
+- 🌱 My current focus is on deepening my knowledge on **Red Hat Enterprise Linux, Kubernetes, and DevOps Automation tools**
+- 💬 Feel free to ask me anything about **Linux**, **DevOps**, or anything tech related, really!
+- 🚀 My learning roadmap includes: **CI/CD (Jenkins/GitHub Actions/GitLab), Cloud Platforms (AWS/GCP/Azure), Kubernetes orchestration, IaC through Terraform, System Design, and System Security. (More to come!)**
 - 📫 Let's connect! You can find me here:
 
 <p align="center">
